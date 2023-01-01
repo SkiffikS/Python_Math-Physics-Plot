@@ -44,12 +44,15 @@
 1. Графік із різною кількість ліній, точок, різними кольорами (створено за допомогою синусоїдальної функції).
 
 ![alt](plots_2/reports/images/graph_1.png "graph_1")
+
 2. Стовбцева діаграмма із довільною кількість стовбців та дофільними числами.
 
 ![alt](plots_2/reports/images/graph_2.png "graph_2")
+
 3. Секторна(кругова) діаграма із виділеним елементом.
 
 ![alt](plots_2/reports/images/graph_3.png "graph_3")
+
 4. Кругова градусна діаграмма (найчастіше використовується для показання сили вітрів з усіх напрямків)
 
 ![alt](plots_2/reports/images/graph_4.png "graph_4")
@@ -62,16 +65,19 @@
 1. функція Дюфінга:
 
 ![alt](physics_1/mesave/task_2.png "graph_1")
+
 ![alt](physics_1/reports/Duffing.png "graph_1")
 
 2. Хвилі
 
 ![alt](physics_1/mesave/task_4-1.png "graph_2")
+
 ![alt](physics_1/mesave/task_4-2.png "graph_2")
 
 3. Моделювання удару електромагнітної хвилі.
 
 ![alt](physics_1/mesave/task_5.png "graph_3")
+
 Вивід:
 ```
 U_1 := σ_1/(ω*ε_0*ε_r_1) = 0  ==> medium 1 is a(n) Insulator
@@ -94,7 +100,9 @@ S_t = 0.1259 = 94.86% S_i
 4. Розв'язування рівняння тепла.
 
 ![alt](physics_1/reports/temperature.gif "graph_2")
+
 ![alt](physics_1/reports/temperature1.gif "graph_2")
+
 ---
 
 Усі графіки збережено по попках, у кодах можна змінювати значення під свої та запускати программи і отримувати нові графіки.
